@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "visualize-app": {
+            "platform": "windows",
+            "transformer": "flask"
+        }
+    },
+    "notebook": "visualize2.ipynb"
+}
